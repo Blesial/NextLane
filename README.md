@@ -12,6 +12,10 @@ This project includes an ASP.NET web application that implements CRUD operations
 4. Press **F5** or click the **"Start"** button to run the application locally.
 5. The web application will open in your default web browser.
 
+### Testing the APIs
+
+- You can test the APIs using Swagger. Access the Swagger UI at the following URL: [http://localhost:5097/swagger/index.html](http://localhost:5097/swagger/index.html).
+
 ## Running the Console Application
 
 1. In the Solution Explorer, locate the console application project.
